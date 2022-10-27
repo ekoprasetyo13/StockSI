@@ -2,7 +2,7 @@
 
 namespace App\Imports;
 
-use App\Customer;
+use App\Models\Customer;
 use Maatwebsite\Excel\Concerns\ToModel;
 use Maatwebsite\Excel\Concerns\WithHeadingRow;
 
