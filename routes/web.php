@@ -44,6 +44,7 @@ Route::get('/dashboard', function () {
 })->middleware(['auth', 'verified'])->name('dashboard');
 
 Route::get('/', [HomeController::class, 'index'])->name('home');
+Route::get('/home', [HomeController::class, 'index'])->name('homes');
 
 // Route::get('dashboard', function () {
 // 	return view('layouts.master');
