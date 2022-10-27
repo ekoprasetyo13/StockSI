@@ -65,3 +65,11 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 # StockSI
+
+System Inventory Sederhana (Laravel 9.37 & Laravel Breeze-React)
+
+Library yang digunakan :
+- laravel-dompdf : [https://github.com/barryvdh/laravel-dompdf](https://github.com/barryvdh/laravel-dompdf)
+- Laravel-Excel : [https://github.com/SpartnerNL/Laravel-Excel](https://github.com/barryvdh/laravel-dompdf)
+- barcode : [https://github.com/milon/barcode](https://github.com/milon/barcode)
+- laravel-datatables : [https://github.com/yajra/laravel-datatables](https://github.com/yajra/laravel-datatables)
