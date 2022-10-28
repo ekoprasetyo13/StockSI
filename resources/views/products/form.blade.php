@@ -59,12 +59,12 @@
                             <input type="text" class="form-control" id="link" name="link">
                             <span class="help-block with-errors"></span>
                         </div> --}}
-                        <div class="form-group">
-                            <label >Product Code</label>
+                        {{-- <div class="form-group">
+                            <label >Product Code</label> --}}
                             {{-- <textarea class="form-control" id="description" name="description"></textarea> --}}
-                            <input type="text" class="form-control" id="product_code" name="product_code"  autofocus required>
+                            {{-- <input type="text" class="form-control" id="product_code" name="product_code"  autofocus required>
                             <span class="help-block with-errors"></span>
-                        </div>
+                        </div> --}}
 
                     </div>
                     <!-- /.box-body -->
